@@ -1,7 +1,7 @@
 /* 
 Function: Dice Roll
 Inputs: None
-Outputs: Dice roll results - INTEGER
+Outputs: Dice roll results - STRING
 */
 function diceRoll(){
 
